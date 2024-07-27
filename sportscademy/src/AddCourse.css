@@ -1,0 +1,10 @@
+.box_div{
+    width:60%;
+}
+
+@media(max-width:770px){
+    .box_div{
+        width:90%;
+    }
+   
+}
